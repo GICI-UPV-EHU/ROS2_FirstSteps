@@ -1,5 +1,5 @@
 # ROS 2 FirstSteps
-Mikel Larrea - GICI (UPV/EHU)
+Mikel Larrea - [GICI (UPV/EHU)](https://www.ehu.eus/gici)
 
 # Introduction
 This repository gathers some of the ROS 2 courses links  for newcomers to the robotics with ROS world.
